@@ -1,0 +1,24 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_FGAZ2_name": {
+            "value": null
+        },
+        "availabilitySets_FGAZ2_Groupe_de_disponibilité_externalid": {
+            "value": null
+        },
+        "disks_FGAZ2_OsDisk_FGAZ2_externalid": {
+            "value": null
+        },
+        "disks_FGAZ2_harddisk_FGAZ2_externalid": {
+            "value": null
+        },
+        "networkInterfaces_FGAZ2_Nic0_Internet_externalid": {
+            "value": null
+        },
+        "networkInterfaces_FGAZ2_Nic1_Interne_externalid": {
+            "value": null
+        }
+    }
+}

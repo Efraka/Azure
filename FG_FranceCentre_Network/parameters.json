@@ -1,0 +1,18 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualNetworks_FortigateProtectedVNet_name": {
+            "value": null
+        },
+        "routeTables_FGAZ2_InsideSubnet_routes_externalid": {
+            "value": null
+        },
+        "networkSecurityGroups_FGAZ2_NSG_externalid": {
+            "value": null
+        },
+        "routeTables_fgaz2_publicfacingsubnet_routes_externalid": {
+            "value": null
+        },
+    }
+}
